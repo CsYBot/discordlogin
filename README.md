@@ -1,5 +1,5 @@
 # discordlogin
-discord login https://www.csybot.cf/youtube
+discord login [Youtube](https://www.csybot.cf/youtube)
 
 
 
